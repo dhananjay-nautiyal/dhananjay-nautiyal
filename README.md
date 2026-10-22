@@ -27,15 +27,16 @@ dhananjay@dev-machine
 Subject      : Dhananjay Nautiyal
 Role         : Java Backend Developer
 Company      : Anantixia Pvt. Ltd.
-Origin       : India
+Experience   : 1 yr 9 mos (since Jan 2025, Remote)
+Origin       : Uttarakhand, India
 Education    : B.Tech, Computer Science
 Status       : Open to opportunities
-Toolchain    : Java · Spring Boot · Docker · Git
+Toolchain    : Java 21 · Spring Boot · Docker · Git
 
 Core Lang    : Java, JavaScript, TypeScript, Python, Kotlin
-Core Backend : Spring Boot, Spring Security, JPA/Hibernate, REST APIs
+Core Backend : Spring Boot, Spring Security, OAuth2, JWT, JPA/Hibernate, REST APIs
 Core DB      : PostgreSQL, MySQL, MongoDB, Redis
-Core Infra   : Docker, Linux, Git, CI/CD, Kafka, Kubernetes (learning)
+Core Infra   : Docker, Linux, Git, Jenkins CI/CD, Kafka, Kubernetes (learning)
 
 Contact
   Gmail      : dhananjaynautiyal203@gmail.com
@@ -49,11 +50,11 @@ Contact
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science graduate passionate about **backend engineering**, clean architecture, and scalable software development.
+🎓 Computer Science graduate and **Java Backend Developer** with **1 year 9 months** of hands-on backend experience.
 
-💼 Software developer at **Anantixia Pvt. Ltd.** (formerly intern).
+💼 Software developer at **Anantixia Pvt. Ltd.** since **January 2025** — started as an intern, now full-time.
 
-🚀 I build enterprise-grade applications using **Java, Spring Boot, PostgreSQL, Redis, Docker, JWT Authentication**, and **Microservices**.
+🚀 I build enterprise-grade applications using **Java 21, Spring Boot, PostgreSQL, Redis, Docker, OAuth2/JWT**, and **Microservices**.
 
 💡 I love solving real-world business problems through clean code, solid architecture, and scalable system design.
 
@@ -65,9 +66,11 @@ Contact
 
 ## 🔥 Currently Working On
 
-- 🤖 **HCP-CRM** — AI-powered CRM platform with workflow automation
-- 💬 **Astro Talk** — real-time chat application (Java + Spring Boot)
+- 📸 **Snapzy** — photo-sharing social app with auth, uploads, feed, likes and comments (Node.js + Express + SQLite)
+- 🎵 **Chronotone** — deterministic sonification of your commits, music and weather (Java + Kotlin)
+- 📺 **Anime Watch** — anime tracker & streaming client (Android app + web app + Spring Boot backend)
 - 🎵 **Music** — modern multi-platform music client (Kotlin/Android, pluggable Hi-Res modules)
+- 🤖 **HCP-CRM** — AI-powered CRM platform with workflow automation
 - ☁️ **Spring Cloud** & distributed systems
 - 📨 **Apache Kafka** — event-driven architecture
 - 🐳 **Kubernetes** — container orchestration
@@ -117,10 +120,38 @@ Contact
 
 ## 🌟 Featured Projects
 
+### 📸 [Snapzy](https://github.com/dhananjay-nautiyal/snapzy)
+Photo-sharing social app — original from-scratch MVP with authentication, image uploads, feed, likes, comments and profiles.
+
+**Tech Stack:** `Node.js` `Express` `SQLite` `EJS` `Docker`
+
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+
+### 🎹 [Chronotone](https://github.com/dhananjay-nautiyal/chronotone)
+Deterministic sonification of your digital life — your commits, music and weather rendered as reproducible audio, each with a hash you can publish.
+
+**Tech Stack:** `Java` `Kotlin`
+
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+
+### 📺 [Anime Watch](https://github.com/dhananjay-nautiyal/anime-watch)
+Anime tracker & streaming client — Android app, web app and Spring Boot backend, with watchlist, reviews, offline downloads and OTA updates.
+
+**Tech Stack:** `Java` `JavaScript` `TypeScript` `Spring Boot` `Android`
+
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+
 ### 🎵 [Music](https://github.com/dhananjay-nautiyal/music)
-Modern multi-platform music client (YouTube Music, JioSaavn, Spotify import, local, pluggable Hi-Res modules). Rebranded from BitChord.
+Modern multi-platform music client (YouTube Music, JioSaavn, Spotify import, local, pluggable Hi-Res modules).
 
 **Tech Stack:** `Kotlin` `C++` `Go` `Java` `GPL-3.0`
+
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+
+### 💬 [Astro Talk](https://github.com/dhananjay-nautiyal/astro-talk)
+Real-time chat application built with Java and JavaScript — authentication and live messaging on a scalable backend.
+
+**Tech Stack:** `Java` `JavaScript` `Node.js` `TypeScript`
 
 <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
@@ -128,20 +159,6 @@ Modern multi-platform music client (YouTube Music, JioSaavn, Spotify import, loc
 AI-powered CRM platform with modern UI, authentication, dashboards, and intelligent workflow automation.
 
 **Tech Stack:** `TypeScript` `React` `Node.js` `Python`
-
-<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
-
-### 💬 [Astro Talk](https://github.com/dhananjay-nautiyal/astro-talk)
-Real-time chat application featuring authentication, messaging, and scalable backend architecture.
-
-**Tech Stack:** `Java` `Spring Boot` `JWT` `MySQL` `TypeScript`
-
-<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
-
-### 📺 [Anime Watch](https://github.com/dhananjay-nautiyal/anime-watch)
-Modern anime platform with trending anime, search, news, and responsive user experience.
-
-**Tech Stack:** `React` `JavaScript` `TypeScript` `REST APIs`
 
 <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
@@ -165,21 +182,21 @@ Expense management system with analytics, reports, and financial insights.
 
 <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhananjay-nautiyal&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
-
 ## 🏆 GitHub Achievements
 
+Earned for real contribution activity — verified on my [achievements tab](https://github.com/dhananjay-nautiyal?tab=achievements).
+
+| Achievement | Count | Awarded for |
+|---|:---:|---|
+| 🦈 **Pull Shark** | **×2** | Merged pull requests |
+| ⚡ **Quickdraw** | 1 | Closing an issue in under 5 minutes |
+| 🎲 **YOLO** | 1 | Merging a pull request without review |
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhananjay-nautiyal&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
+[![Pull Shark](https://img.shields.io/badge/Pull_Shark-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhananjay-nautiyal?tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhananjay-nautiyal?tab=achievements)
+[![YOLO](https://img.shields.io/badge/YOLO-D29922?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhananjay-nautiyal?tab=achievements)
 
 </div>
 
@@ -203,23 +220,56 @@ Expense management system with analytics, reports, and financial insights.
 
 ## 💼 Professional Experience
 
-**Software Developer** — Anantixia Pvt. Ltd.
-- Built and maintained enterprise applications using **Spring Boot** and **REST APIs**
-- Designed and implemented **microservices**-based backend modules
-- Worked with **Docker** for containerized deployments
-- Managed data persistence with **PostgreSQL** and caching with **Redis**
-- Currently contributing to **AI-powered CRM** initiatives
+### Software Developer — Anantixia Pvt. Ltd.
+*Jan 2025 – Present · Remote · **1 year 9 months***
+
+- Designed and built production-grade **RESTful APIs and microservices** using **Java 21**, **Spring Boot**, **Spring Data JPA** and **Hibernate** — user registration, authentication, scheduling, question management and result generation
+- Implemented **OAuth2 Resource Server** and **JWT** stateless authentication with **Spring Security**, enforcing fine-grained, role-based authorization across services
+- Applied **Redis** and **Ehcache (JSR-107)** caching to reduce redundant database calls and improve throughput on high-traffic endpoints
+- Optimised **MySQL / PostgreSQL** schemas, indexing strategies and JPA entity mappings for complex exam, user and reporting data models
+- Built bulk data import/export with **Apache POI** (Excel) and **OpenCSV**, **Apache PDFBox** for result PDFs and **Apache Tika** for secure file-type validation
+- Generated **QR codes** for hall tickets via **Google ZXing** and automated DTO mapping with **MapStruct**
+- Containerized all microservices with **Docker** and automated build, test and deployment with **Jenkins CI/CD**
+- Documented REST APIs with **SpringDoc OpenAPI** and **Swagger UI**, holding **80%+** code coverage via **JUnit 5**, **Mockito** and **JaCoCo**
+- Integrated the **Razorpay** payment gateway for wallet, billing and transaction flows
+- Enabled real-time data exchange over **WebSocket (STOMP + SockJS)** and event-driven messaging with **Apache Kafka**
 
 <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 📜 Certifications
 
-- ☕ Java
-- 🌱 Spring Boot
-- 🐳 Docker
-- 🐘 PostgreSQL
-- ⚡ Redis
-- ☁️ AWS *(Learning)*
+Only **verified** credentials are listed — each links to the original document committed in this repository.
+
+<table>
+  <tr>
+    <td width="34%" align="center" valign="middle">
+      <a href="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/certificates/learntube-springboot-java.jpg">
+        <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/certificates/learntube-springboot-java.jpg" width="100%" alt="LearnTube.ai Spring Boot and Java certificate of completion" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b>☕ Spring Boot and Java</b><br/>
+      <sub><b>Issuer:</b> LearnTube.ai — P.E.A.K.S. (Assessed in Real Job Scenarios)</sub><br/>
+      <sub><b>Issued:</b> 13 Oct 2026 &nbsp;·&nbsp; <b>Credential ID:</b> <code>LT-7FPR-GCP5</code></sub><br/>
+      <sub>Certificate of Completion · <a href="https://learntube.ai">learntube.ai</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/certificates/ey-microsoft-ai-skills-passport.pdf">
+        <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/certificates/ey-microsoft-ai-skills-passport.png" width="100%" alt="EY and Microsoft AI Skills Passport certificate of completion" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b>🤖 AI Skills Passport</b><br/>
+      <sub><b>Issuer:</b> EY and Microsoft</sub><br/>
+      <sub><b>Issued:</b> 2026</sub><br/>
+      <sub>Completed both the general and employability sections — Sustainability, Business &amp; Entrepreneurship, and Technology</sub>
+    </td>
+  </tr>
+</table>
+
+> 📂 Source files live in [`assets/certificates/`](https://github.com/dhananjay-nautiyal/dhananjay-nautiyal/tree/main/assets/certificates).
 
 <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
