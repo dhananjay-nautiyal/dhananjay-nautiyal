@@ -218,6 +218,26 @@ Earned for real contribution activity — verified on my [achievements tab](http
 
 <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
+## 🧊 3D Contribution View
+
+<div align="center">
+
+<a href="https://github.com/dhananjay-nautiyal?tab=overview">
+  <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar — night view" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/dhananjay-nautiyal?tab=overview">
+  <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar — animated green" />
+</a>
+
+</div>
+
+> 🧊 My contribution graph rendered in 3D — auto-generated daily by the GitHub Actions workflow in `.github/workflows/profile-3d.yml` using [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib).
+
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+
 ## 💼 Professional Experience
 
 ### Software Developer — Anantixia Pvt. Ltd.
