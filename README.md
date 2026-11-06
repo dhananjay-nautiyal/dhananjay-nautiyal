@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Dhananjay Nautiyal
 
-### Java Backend Developer • Spring Boot • Microservices • AI Enthusiast
+### Java Backend Developer • Spring Boot • Microservices • AI Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Engineer;Microservices+Enthusiast;AI+Integration;Always+Learning+%26+Building" alt="Typing SVG" />
 
