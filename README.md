@@ -189,6 +189,13 @@ Expense management system with analytics, reports, and financial insights.
 <div align="center">
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#66](https://github.com/dhananjay-nautiyal/music/pull/66) in [dhananjay-nautiyal/music](https://github.com/dhananjay-nautiyal/music)
+2. 💪 Opened PR [#66](https://github.com/dhananjay-nautiyal/music/pull/66) in [dhananjay-nautiyal/music](https://github.com/dhananjay-nautiyal/music)
+3. 🎉 Merged PR [#65](https://github.com/dhananjay-nautiyal/music/pull/65) in [dhananjay-nautiyal/music](https://github.com/dhananjay-nautiyal/music)
+4. 💪 Opened PR [#65](https://github.com/dhananjay-nautiyal/music/pull/65) in [dhananjay-nautiyal/music](https://github.com/dhananjay-nautiyal/music)
+5. 🎉 Merged PR [#64](https://github.com/dhananjay-nautiyal/music/pull/64) in [dhananjay-nautiyal/music](https://github.com/dhananjay-nautiyal/music)
+6. 💪 Opened PR [#64](https://github.com/dhananjay-nautiyal/music/pull/64) in [dhananjay-nautiyal/music](https://github.com/dhananjay-nautiyal/music)
+7. 🎉 Merged PR [#63](https://github.com/dhananjay-nautiyal/music/pull/63) in [dhananjay-nautiyal/music](https://github.com/dhananjay-nautiyal/music)
 <!--END_SECTION:activity-->
 
 </div>
