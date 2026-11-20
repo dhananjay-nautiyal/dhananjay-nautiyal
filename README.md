@@ -173,12 +173,27 @@ Expense management system with analytics, reports, and financial insights.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhananjay-nautiyal&show_icons=true&bg_color=0b1026&title_color=7dd3fc&text_color=e0e7ff&icon_color=a78bfa&border_color=ffffff33&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhananjay-nautiyal&show_icons=true&bg_color=0b1026&title_color=7dd3fc&text_color=e0e7ff&icon_color=a78bfa&border_color=ffffff33&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay-nautiyal&layout=compact&bg_color=0b1026&title_color=f472b6&text_color=e0e7ff&border_color=ffffff33&hide_border=false"/>
 
 <img src="https://streak-stats.demolab.com?user=dhananjay-nautiyal&theme=tokyonight&hide_border=true"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=dhananjay-nautiyal&theme=onedark&no-frame=true&no-margin=true&row=2&column=5&margin-w=10&margin-h=10"/>
+
 </div>
+
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+
+## 🕒 Recent Activity
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+> ⚙️ Auto-updated every 3 hours by the [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) workflow — public PRs, issues, and releases only.
 
 <img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
